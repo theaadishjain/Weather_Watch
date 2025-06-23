@@ -19,8 +19,31 @@ A simple and responsive web app that lets users check real-time weather conditio
 - **JavaScript **
 - **OpenWeatherMap API**
 
-## 🔑 How to Get an API Key
 
-1. Sign up at [https://openweathermap.org/](https://openweathermap.org/)
-2. Go to your profile → API Keys → Generate a key
-3. Replace `YOUR_API_KEY` in `script.js` with your actual key
+---
+
+## 🔑 How to Get an OpenWeatherMap API Key
+
+1. Go to [https://openweathermap.org/](https://openweathermap.org/)
+2. Create a free account
+3. Navigate to **API Keys** under your profile
+4. Copy the key and replace `YOUR_API_KEY` in `script.js` with this key
+
+---
+
+## ▶️ How to Run This Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/theaadishjain/Weather_Watch.git
+```
+2. Navigate into the project directory
+   cd weather-dashboard
+   
+4. Open the app
+Open the index.html file in any browser
+
+5. Enter a city name
+   
+6. Type a city and click Search to view the current weather.
